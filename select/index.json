@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Trust",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-04-03T05:40:17.687603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/01_Can_I_Trust_You_With_My_Heart_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_Can_I_Trust_You_With_My_Heart_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Can_I_Trust_You_With_My_Heart_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart (LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Can_I_Trust_You_With_My_Heart_(LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Don't Trust Me At All",
+      "artist": "范曉萱",
+      "has_synced": true,
+      "path": "select/05_You_Don't_Trust_Me_At_All_范曉萱.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You don't trust me at all",
+      "artist": "范晓萱",
+      "has_synced": true,
+      "path": "select/06_You_don't_trust_me_at_all_范晓萱.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trust Issues",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_Trust_Issues_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In God We Trust",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/08_In_God_We_Trust_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/09_Trust_Me_Guru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Guru's Jazzmatazz",
+      "has_synced": true,
+      "path": "select/10_Trust_Me_Guru's_Jazzmatazz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/11_Trust_Me_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don't Trust Dem Boys",
+      "artist": "La Chat",
+      "has_synced": false,
+      "path": "select/12_I_Don't_Trust_Dem_Boys_La_Chat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glass Mountain Trust",
+      "artist": "Mark Ronson & The Business Intl",
+      "has_synced": false,
+      "path": "select/13_Glass_Mountain_Trust_Mark_Ronson_&_The_Business_Intl.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glass Mountain Trust (Featuring D'angelo)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": false,
+      "path": "select/14_Glass_Mountain_Trust_(Featuring_D'angelo)_Mark_Ronson_&_The_Business_Intl..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In God We Trust",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/15_In_God_We_Trust_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trust",
+      "artist": "Moby & The Void Pacific Choir",
+      "has_synced": false,
+      "path": "select/16_Trust_Moby_&_The_Void_Pacific_Choir.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Matter of Trust",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/17_A_Matter_of_Trust_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Antisocial (Trust cover)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/18_Antisocial_(Trust_cover)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Trust",
+      "artist": "Ned's Atomic Dustbin",
+      "has_synced": true,
+      "path": "select/19_Trust_Ned's_Atomic_Dustbin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trust",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Trust_浜崎_あゆみ.txt"
+    }
+  ]
+}
